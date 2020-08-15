@@ -1,6 +1,6 @@
 # Alice 3
 
-##Getting started with Alice
+## Getting started with Alice
 Initial Scene: Starting point of the animation.
 It has three components:
 
@@ -14,7 +14,7 @@ Two different workspace editors (a.k.a. perspectives):
 * Code editor. Allows us to add programming statements.
 Run the animation after the programming statements are added to the code editor.
 
-###Scene Editor Display
+### Scene Editor Display
 * Scene setup at top.
 * Gallery at the bottom.
 
