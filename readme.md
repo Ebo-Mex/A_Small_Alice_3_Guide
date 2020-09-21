@@ -83,4 +83,75 @@ We use functions to:
 
 Functions such as _getDistanceTo_ allows us to find the distance from object A to B. Furthermore, functions can be used with math operators to improve the obtained results.
 
+## If and While
+Control structures are pre-defined statements that determine the order in which programming instructions are executed.
+
+You know what an if and while are.
+
+Process flow is a graphical representation of a process model. It uses chapes to represent the actions in the model.
+
+## Expressions
+Combination of values that result in a final value. Typically used to solve timing and distance problems.
+
+Math operators are available in cascading menus when selecting:
+
+* Amount and duration
+* getDistance functions
+
+## Variables
+A variable is a place in memory where data of a specific type can be stored for later retrieval and use by your program. Each variable is given a unique name to make easy to find and reference. Once a variable is declared it can be used to store and retrieve data.
+
+Variable data types:
+
+- Decimal number
+- Whole number
+- Boolean
+- Classes
+- TextString
+- Other. Sounds, colors, shapes, other special values
+
+Drag _variable_ from the code editor to initialize it.
+
+Preferences -> Java Code allows us to see the actual code!
+
+Cant change the Java code though...
+
+## Keyboard Controls
+Event Handling. Interactivity into animations. Event listeners are created to look for and respond to user input events.
+
+An event is any action initiated by the user, designed to influence the program's execution during play.
+
+Keyboard controls allow the uset to control one or more objects while the animation is running.
+
+Event Listeners. They're procedures in the scene class that listen for input while the animation is running. Types of EL:
+
+* Scene Activation/Time
+* Keyboard
+* Mouse
+* Position/Orientation
+
+To access event listeners:
+
+    Code editor -> Scene tab -> down arrow -> edit -> opens the init event listeners tab
+
+In the init event list tab we can add an event listener. In sceneActivated we can create animation that plays before myFirstMethod. This could be an opening sequence.
+
+Saving a class allows you to save time by using already tested code.
+
+    Select the code -> Save to Class File
+    (Save in MyClasses folder for easy access)
+
+## Develop a complete animation
+
+Funtional decomposition is a methodical process of identifying a complex problem and breaking it down into smaller steps that are easier to manage.
+
+Animation development process:
+
+1. Define the scenario
+2. Design a storyboard
+3. Program the animation
+4. Run the animation
+
+
+
 _Info obtained from the Java Fundamentals Learner Course by Oracle_
